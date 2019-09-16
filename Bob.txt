@@ -1,5 +1,10 @@
-new file Bob.txt (add new text - master branch) at local repo
+new file Bob.txt at local (add text to bobby_branch) repo 
+>>>>>>> bobby_branch
 
 before commit
 
-after comit and push Hi!! I'm Bob. I'm new here.
+after comit and push 
+
+Hi! I'm Bob. I'm new here.
+
+after commint Bob.txt
