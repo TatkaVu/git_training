@@ -1,1 +1,5 @@
 new file Bob.txt at local repo
+
+before commit
+
+after comit and push Hi!! I'm Bob. I'm new here.
