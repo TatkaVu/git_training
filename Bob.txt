@@ -1,4 +1,4 @@
-new file Bob.txt at local repo
+new file Bob.txt (add new text - master branch) at local repo
 
 before commit
 
