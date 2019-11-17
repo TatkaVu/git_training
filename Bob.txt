@@ -8,3 +8,5 @@ after comit and push
 Hi! I'm Bob. I'm new here.
 
 after commint Bob.txt
+
+added text 16.11.2019 test push to github.com
